@@ -804,12 +804,13 @@ header .row {
   min-width: 1180px;
 }
 .fast-feedback .container {
-  padding-left: 100px;
+  padding-left: 130px;
   padding-right: 100px;
 }
 .fast-feedback__feedback-form {
   padding-top: 10px;
   padding-bottom: 30px;
+  padding-left: 80px;
 }
 .fast-feedback--feedback-grey {
   background-image: url(../images/pattern_grey.png);
