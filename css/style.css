@@ -474,7 +474,7 @@ h2 {
 }
 .btn:active {
   box-shadow: none;
-  top: 5px;
+  top: 1px;
 }
 .btn__slide {
   font-size: 24px;
